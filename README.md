@@ -1,5 +1,7 @@
 # Moon Notes 🚀
 
+A simple React note taking application.
+
 ## Technologies 🌗
 
 - React
