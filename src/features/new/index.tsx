@@ -1,4 +1,4 @@
-import { NoteData, Tag } from "../../App";
+import { NoteData, Tag } from "../../routing/Routes";
 import { NoteForm } from "../../components/NoteForm";
 
 type NewNoteProps = {

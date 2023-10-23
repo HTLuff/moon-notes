@@ -2,7 +2,7 @@ import { useMemo, useState } from "react";
 import { Button, Col, Form, Row, Stack } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import ReactSelect from "react-select";
-import { Tag } from "../../App";
+import { Tag } from "../../routing/Routes";
 import NoteCard from "../../components/NoteCard";
 import EditModal from "../../components/EditModal";
 
