@@ -1,3 +1,5 @@
+![hero image](https://github.com/HTLuff/moon-notes/public/hero.png)
+
 # Moon Notes 🚀
 
 A simple React note taking application.
