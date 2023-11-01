@@ -1,4 +1,4 @@
-![hero image](https://github.com/HTLuff/moon-notes/public/hero.png)
+![hero image](https://github.com/HTLuff/moon-notes/blob/main/public/hero.png?raw=true)
 
 # Moon Notes 🚀
 
