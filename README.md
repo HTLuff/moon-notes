@@ -35,3 +35,5 @@ A simple React note taking application.
 ## Roadmap
 
 - [ ] Add Usage to README
+- [ ] Add Node API
+- [ ] Add serverless resources for note DB
